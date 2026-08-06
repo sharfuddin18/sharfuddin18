@@ -116,8 +116,8 @@
   </tr>
   <tr align="center">
     <td><h2>800+</h2><span>Lifetime Activity</span></td>
-    <td><h2>7 Days</h2><span>Active Streak</span></td>
-    <td><h2>8 Days</h2><span>Peak Streak</span></td>
+    <td><h2>8 Days</h2><span>Active Streak</span></td>
+    <td><h2>14 Days</h2><span>Peak Streak</span></td>
   </tr>
 </table>
 
