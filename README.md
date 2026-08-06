@@ -101,13 +101,18 @@
 
 ## 📊 GitHub Metrics & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharfuddin18&custom_title=800%2B%20Total%20Contributions&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=sharfuddin18&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center" width="100%">
+  <tr align="center">
+    <td><b>📈 Total Contributions</b></td>
+    <td><b>🔥 Current Streak</b></td>
+    <td><b>⚡ Longest Streak</b></td>
+  </tr>
+  <tr align="center">
+    <td><h2>800+</h2><span>Lifetime Activity</span></td>
+    <td><h2>7 Days</h2><span>Active Streak</span></td>
+    <td><h2>8 Days</h2><span>Peak Streak</span></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharfuddin18&layout=compact&theme=tokyonight&hide_border=true" />
