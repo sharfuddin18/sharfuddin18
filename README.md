@@ -137,5 +137,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
+
 </div>
