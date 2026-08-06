@@ -102,7 +102,10 @@
 ## 📊 GitHub Metrics & Analytics
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=sharfuddin18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharfuddin18&custom_title=800%2B%20Total%20Contributions&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=sharfuddin18&theme=tokyonight&hide_border=true" />
 </p>
 
