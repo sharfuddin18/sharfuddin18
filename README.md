@@ -115,8 +115,8 @@
     <td><b>⚡ Longest Streak</b></td>
   </tr>
   <tr align="center">
-    <td><h2>800+</h2><span>Lifetime Activity</span></td>
-    <td><h2>8 Days</h2><span>Active Streak</span></td>
+    <td><h2>900+</h2><span>Lifetime Activity</span></td>
+    <td><h2>2 Days</h2><span>Active Streak</span></td>
     <td><h2>14 Days</h2><span>Peak Streak</span></td>
   </tr>
 </table>
